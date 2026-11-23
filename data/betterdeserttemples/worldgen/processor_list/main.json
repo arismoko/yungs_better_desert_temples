@@ -1,7 +1,7 @@
 {
   "processors": [
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:polished_diorite",
       "picks": [
         {
@@ -18,7 +18,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:diorite",
       "picks": [
         {
@@ -47,7 +47,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:sponge",
       "picks": [
         {
@@ -68,7 +68,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:end_stone_brick_wall",
       "picks": [],
       "default": {
@@ -79,7 +79,7 @@
       "keep_properties": true
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:white_stained_glass",
       "picks": [
         {
@@ -96,7 +96,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:purpur_pillar",
       "picks": [],
       "default": {
@@ -114,7 +114,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:quartz_pillar",
       "picks": [],
       "default": {
@@ -124,7 +124,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:acacia_wood",
       "picks": [
         {
@@ -377,7 +377,7 @@
       ]
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:yellow_concrete",
       "picks": [],
       "default": {
@@ -387,7 +387,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:blue_concrete",
       "picks": [],
       "default": {
@@ -441,7 +441,7 @@
       ]
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:torch",
       "picks": [
         {
@@ -459,7 +459,7 @@
       "keep_properties": true
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:wall_torch",
       "picks": [
         {
@@ -477,7 +477,7 @@
       "keep_properties": true
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:campfire",
       "picks": [
         {
@@ -500,7 +500,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:yellow_stained_glass",
       "picks": [],
       "default": {
@@ -510,7 +510,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:orange_stained_glass",
       "picks": [
         {
@@ -579,7 +579,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:red_stained_glass",
       "picks": [
         {
@@ -633,7 +633,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:red_wool",
       "picks": [],
       "default": {
@@ -643,7 +643,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:decorated_pot",
       "picks": [],
       "default": {

@@ -1,0 +1,23 @@
+summary = "Desert temples redesigned into large, trap-filled tombs with puzzles, crypts and treasure."
+description = """
+Desert temples redesigned into large, trap-filled tombs with puzzles, crypts and treasure.
+
+What it adds:
+
+- A new desert temple: a buried tomb of halls, puzzle rooms, crypts, a parkour hall and the pharaoh's chamber, 198 templates assembled by YUNG's jigsaw rules.
+- Its own placement: it keeps away from rivers and oceans and from villages, as the original does.
+- Ten chest loot tables, the spawners its placeholders turn into, and the random sand, sandstone, cobweb and pot blocks its processors pick.
+- Vanilla desert pyramids no longer generate, as in the original (its "Disable Vanilla Pyramids" option is on by default).
+
+Differences from the original:
+
+- The pharaoh boss, the temple's mining fatigue and the "temple cleared" state are Java code and are not here.
+- Armour stands, item frames, banners and the pharaoh's husk keep what the template saved; the processors that dress them are Java code.
+
+A port of YUNG's Better Desert Temples by YUNGNICKYOUNG and Tera, under the LGPL v3.0 only.
+"""
+categories = ["worldgen", "adventure"]
+
+[[screenshots]]
+path = "page/world.png"
+caption = "TODO"
