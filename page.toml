@@ -19,5 +19,9 @@ A port of YUNG's Better Desert Temples by YUNGNICKYOUNG and Tera, under the LGPL
 categories = ["worldgen", "adventure"]
 
 [[screenshots]]
-path = "page/world.png"
-caption = "TODO"
+path = "page/pyramid-exterior.png"
+caption = "A Better Desert Temple rising from the sand."
+
+[[screenshots]]
+path = "page/treasure-chamber.png"
+caption = "A sandstone chamber inside the temple."
