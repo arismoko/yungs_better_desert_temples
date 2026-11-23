@@ -13,7 +13,7 @@ A port of [YUNG's Better Desert Temples](https://github.com/YUNG-GANG/YUNGs-Bett
 
 ## Differences from the original
 
-- The pharaoh boss, the temple's mining fatigue and the "temple cleared" state are Java code and are not here.
+- The pharaoh husk is in its chamber with the gear the template saved. The temple's mining fatigue and the "temple cleared" state are not here: they need the game to say which temple a player or the pharaoh is inside.
 - Armour stands, item frames, banners and the pharaoh's husk keep what the template saved; the processors that dress them are Java code.
 
 ## Building
